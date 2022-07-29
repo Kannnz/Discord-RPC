@@ -1,10 +1,10 @@
 {
-    "clientid": "ID-HERE",
-    "largeimage": "NAME-OF-LARGE-IMAGE",
-    "largetext": "TEXT-OVER-THE-IMAGE",
-    "details": "SIMPLE-DETAILS",
-    "button1": "BUTTON-1-NAME",
-    "url1": "URL-REDIRECTS-ON-BUTTON-1",
-    "button2": "BUTTON-2-NAME",
-    "url2": "URL-REDIRECTS-ON-BUTTON-2"
+    "clientid": "1002720339089952768",
+    "largeimage": "screenshot_2019-12-19-20-29-34-417",
+    "largetext": "Nigthmare",
+    "details": "Slow respond - Afk",
+    "button1": "Watch",
+    "url1": "https://youtu.be/y5T5YZ6mYLA",
+    "button2": "Join discord",
+    "url2": "https://discord.gg/6ac72J7hEr"
 }
